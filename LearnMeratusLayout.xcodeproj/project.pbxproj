@@ -15,6 +15,7 @@
 		0F39E82B236D965C00C5EC80 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F39E829236D965C00C5EC80 /* LaunchScreen.storyboard */; };
 		0F39E833236D97DD00C5EC80 /* QuickTracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F39E832236D97DD00C5EC80 /* QuickTracking.swift */; };
 		0F39E835236D97F200C5EC80 /* AdvancedTracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F39E834236D97F200C5EC80 /* AdvancedTracking.swift */; };
+		0FA238BC239976BF002FD433 /* Contoh1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA238BB239976BF002FD433 /* Contoh1.swift */; };
 		0FB4929623995D7B007F75B3 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FB4929523995D7B007F75B3 /* Controller.swift */; };
 		0FE83D9A2376DE57005C7F7A /* TableLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FE83D992376DE57005C7F7A /* TableLayout.swift */; };
 		0FE83D9C2376DEA7005C7F7A /* TableLayoutCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FE83D9B2376DEA7005C7F7A /* TableLayoutCell.swift */; };
@@ -35,6 +36,7 @@
 		0F39E82C236D965C00C5EC80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0F39E832236D97DD00C5EC80 /* QuickTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickTracking.swift; sourceTree = "<group>"; };
 		0F39E834236D97F200C5EC80 /* AdvancedTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedTracking.swift; sourceTree = "<group>"; };
+		0FA238BB239976BF002FD433 /* Contoh1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contoh1.swift; sourceTree = "<group>"; };
 		0FB4929523995D7B007F75B3 /* Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Controller.swift; sourceTree = "<group>"; };
 		0FE83D992376DE57005C7F7A /* TableLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableLayout.swift; sourceTree = "<group>"; };
 		0FE83D9B2376DEA7005C7F7A /* TableLayoutCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableLayoutCell.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				0FF91CA82396B6C000564D69 /* ListBookingCell.swift */,
 				0FF91CAA2396CFE600564D69 /* DetailsListBooking.swift */,
 				0FF91CA62396B65600564D69 /* ListBooking.swift */,
+				0FA238BB239976BF002FD433 /* Contoh1.swift */,
 			);
 			path = ContohTable;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				0F39E835236D97F200C5EC80 /* AdvancedTracking.swift in Sources */,
 				0F39E821236D965400C5EC80 /* AppDelegate.swift in Sources */,
 				0FF91CA92396B6C000564D69 /* ListBookingCell.swift in Sources */,
+				0FA238BC239976BF002FD433 /* Contoh1.swift in Sources */,
 				0FE83D9C2376DEA7005C7F7A /* TableLayoutCell.swift in Sources */,
 				0F340DCE238A8088001AD22D /* Schedule.swift in Sources */,
 				0FE83D9A2376DE57005C7F7A /* TableLayout.swift in Sources */,
